@@ -85,7 +85,7 @@ def get_colors():
               'darkorchid', 'grey', 'salmon', 'plum',
               'coral', 'sienna', 'darkkhaki', 'yellowgreen',
               'deeppink', 'ivory', 'orchid', 'lightsteelblue']
-  return concols
+  return contcols
 
 
 
